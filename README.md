@@ -1,6 +1,8 @@
 # Filmz276 CMPT 276 Group 19 
 Alex Liang, Oliver Lin, Trey Mangat, Sanjit Mann, Kyle Santema
 
+![image](https://user-images.githubusercontent.com/74593676/236781228-b1d37ec6-a112-4d73-afff-decb3096c24a.png)
+
 ## What is the name of your web application?
 Filmz
  
