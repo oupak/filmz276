@@ -26,5 +26,6 @@ As a user, you can use this site to help decide if you wanted to watch a new mov
 ### Be honest, is the amount of work required in this proposal enough for five group members?
 This project has enough features to keep us busy throughout the semester and will be a good amount to split up between the five group members. 
 
+![image](https://user-images.githubusercontent.com/74593676/236781868-d08098f2-0a32-4550-9f45-3a96b203615f.png)
 
 
